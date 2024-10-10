@@ -266,6 +266,10 @@ section {
 #about {
   position: relative;
 }
+.aditi_picture{
+  display: flex;
+  gap: 80px;
+}
 
 .about-containers {
   gap: 2rem;
